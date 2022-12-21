@@ -1,3 +1,24 @@
 apiVersion: v1
-entries: {}
-generated: "2022-12-21T19:52:17.102568835Z"
+entries:
+  phonebook-app:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-12-21T20:33:21.678254188Z"
+    description: A Helm chart for Kubernetes
+    digest: 0e901356271d2a62e2fc2cde667c84241e3a06a6159f9f67d8ba8b5e1e1408e5
+    name: phonebook-app
+    type: application
+    urls:
+    - phonebook-app-0.2.0.tgz
+    version: 0.2.0
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-12-21T20:33:21.677635323Z"
+    description: A Helm chart for Kubernetes
+    digest: 2eada2ea232faf66a940af1e077dffe79449449bd96221f251d075b8a6bc8378
+    name: phonebook-app
+    type: application
+    urls:
+    - phonebook-app-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-12-21T20:33:21.675756005Z"
