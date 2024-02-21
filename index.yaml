@@ -1,46 +1,14 @@
 apiVersion: v1
 entries:
-  clarus-chart:
-  - apiVersion: v2
-    appVersion: 1.16.0
-    created: "2024-02-21T09:07:47.65828927+01:00"
-    description: A Helm chart for Kubernetes
-    digest: 38b405604843c13359930c210b8cc359ca5cc937b04080de5ab72b69bf3ee7d5
-    name: clarus-chart
-    type: application
-    urls:
-    - clarus-chart-0.1.0.tgz
-    version: 0.1.0
-  demogitrepo:
-  - apiVersion: v2
-    appVersion: 1.16.0
-    created: "2024-02-21T09:07:47.658709295+01:00"
-    description: A Helm chart for Kubernetes
-    digest: ee958930a62b95656c1cd8a026ee94fa15d61d1e3892861cf48c54403aab2b8d
-    name: demogitrepo
-    type: application
-    urls:
-    - demogitrepo-0.1.0.tgz
-    version: 0.1.0
   phonebook-app:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-02-21T09:07:47.659291282+01:00"
+    created: "2024-02-21T10:11:46.846851182+01:00"
     description: A Helm chart for Kubernetes
-    digest: 0e901356271d2a62e2fc2cde667c84241e3a06a6159f9f67d8ba8b5e1e1408e5
-    name: phonebook-app
-    type: application
-    urls:
-    - phonebook-app-0.2.0.tgz
-    version: 0.2.0
-  - apiVersion: v2
-    appVersion: 1.16.0
-    created: "2024-02-21T09:07:47.659024908+01:00"
-    description: A Helm chart for Kubernetes
-    digest: 2eada2ea232faf66a940af1e077dffe79449449bd96221f251d075b8a6bc8378
+    digest: 5d744be2b135191d0e49003d22c160325c1bcbba545a7c4fc638674fa6571624
     name: phonebook-app
     type: application
     urls:
     - phonebook-app-0.1.0.tgz
     version: 0.1.0
-generated: "2024-02-21T09:07:47.658046572+01:00"
+generated: "2024-02-21T10:11:46.846296426+01:00"
