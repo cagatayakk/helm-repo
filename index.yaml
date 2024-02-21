@@ -3,7 +3,7 @@ entries:
   phonebook-app:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-02-21T10:54:20.989745856+01:00"
+    created: "2024-02-21T11:20:31.966124733+01:00"
     description: A Helm chart for Kubernetes
     digest: 50e1aadea690ada6e4a4fdbbbb836949a0becd44b93e73d86ef150b6206f2d08
     name: phonebook-app
@@ -11,4 +11,15 @@ entries:
     urls:
     - phonebook-app-0.1.0.tgz
     version: 0.1.0
-generated: "2024-02-21T10:54:20.989377234+01:00"
+  todo-app:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-02-21T11:20:31.966345083+01:00"
+    description: A Helm chart for Kubernetes
+    digest: 80effcb3b33c9c6ebe19095f04865e2b13cb4e119d11a498391d91fef89355a4
+    name: todo-app
+    type: application
+    urls:
+    - todo-app-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-02-21T11:20:31.96568955+01:00"
