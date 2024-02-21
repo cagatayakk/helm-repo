@@ -3,7 +3,7 @@ entries:
   phonebook-app:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-02-21T11:25:43.20084874+01:00"
+    created: "2024-02-21T12:03:27.380646118+01:00"
     description: A Helm chart for Kubernetes
     digest: 50e1aadea690ada6e4a4fdbbbb836949a0becd44b93e73d86ef150b6206f2d08
     name: phonebook-app
@@ -14,7 +14,7 @@ entries:
   todo-app:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-02-21T11:25:43.20104248+01:00"
+    created: "2024-02-21T12:03:27.380819531+01:00"
     description: A Helm chart for Kubernetes
     digest: e8366a928c25f07646042e780d43e8855d429a7014fc5d6b19ba4f4715cb6b48
     name: todo-app
@@ -22,4 +22,15 @@ entries:
     urls:
     - todo-app-0.1.0.tgz
     version: 0.1.0
-generated: "2024-02-21T11:25:43.200540809+01:00"
+  wordpress:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-02-21T12:03:27.380963332+01:00"
+    description: A Helm chart for Kubernetes
+    digest: b0cb1620ccb7f52a3b042babc04e46208a91c6592cdc012c05676c47c2802aaa
+    name: wordpress
+    type: application
+    urls:
+    - wordpress-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-02-21T12:03:27.380309069+01:00"
